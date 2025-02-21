@@ -1,0 +1,585 @@
+[
+  { "en": "Optimize your application for better usability", "hi": "अपने अनुप्रयोग को बेहतर उपयोगिता के लिए अनुकूलित करें" },
+  { "en": "Accessibility Settings", "hi": "पहुंचनीयता सेटिंग्स" },
+  { "en": "Enable high contrast mode", "hi": "उच्च कंट्रास्ट मोड सक्षम करें" },
+  { "en": "Customize keyboard shortcuts", "hi": "कीबोर्ड शॉर्टकट्स को अनुकूलित करें" },
+  { "en": "Screen reader support", "hi": "स्क्रीन रीडर समर्थन" },
+  { "en": "Text-to-speech options", "hi": "पाठ-से-भाषण विकल्प" },
+  { "en": "Adjust font size for better readability", "hi": "बेहतर पठनीयता के लिए फ़ॉन्ट आकार समायोजित करें" },
+  { "en": "Colorblind-friendly themes", "hi": "रंगान्धता-अनुकूल थीम्स" },
+  { "en": "Enable subtitles for videos", "hi": "वीडियो के लिए उपशीर्षक सक्षम करें" },
+  { "en": "Audio descriptions for visually impaired users", "hi": "दृष्टिहीन उपयोगकर्ताओं के लिए ऑडियो विवरण" },
+  { "en": "Keyboard navigation support", "hi": "कीबोर्ड नेविगेशन समर्थन" },
+  { "en": "Voice command integration", "hi": "वॉयस कमांड एकीकरण" },
+  { "en": "Adaptive text spacing", "hi": "अनुकूलनीय पाठ रिक्ति" },
+  { "en": "Reduce motion effects", "hi": "गति प्रभावों को कम करें" },
+  { "en": "Provide alternative text for images", "hi": "छवियों के लिए वैकल्पिक पाठ प्रदान करें" },
+  { "en": "Enable zoom functionality", "hi": "ज़ूम कार्यक्षमता सक्षम करें" },
+  { "en": "Support for braille displays", "hi": "ब्रेल डिस्प्ले के लिए समर्थन" },
+  { "en": "Haptic feedback settings", "hi": "हैप्टिक फीडबैक सेटिंग्स" },
+  { "en": "Monochrome display mode", "hi": "एकरंगी डिस्प्ले मोड" },
+  { "en": "Adjustable cursor size", "hi": "समायोज्य कर्सर आकार" },
+  { "en": "Automatic speech recognition", "hi": "स्वचालित भाषण पहचान" },
+  { "en": "Error messages with explanations", "hi": "स्पष्टीकरण के साथ त्रुटि संदेश" },
+  { "en": "Sign language interpretation support", "hi": "सांकेतिक भाषा व्याख्या समर्थन" },
+  { "en": "Assistive touch settings", "hi": "सहायक स्पर्श सेटिंग्स" },
+  { "en": "Custom vibration patterns", "hi": "कस्टम कंपन पैटर्न" },
+  { "en": "Low vision accessibility options", "hi": "कम दृष्टि पहुंचनीयता विकल्प" },
+  { "en": "Customizable UI themes", "hi": "अनुकूलन योग्य UI थीम्स" },
+  { "en": "Enable grayscale mode", "hi": "ग्रेस्केल मोड सक्षम करें" },
+  { "en": "Disable auto-playing media", "hi": "स्वतः चलने वाले मीडिया को अक्षम करें" },
+  { "en": "Improve focus indicators", "hi": "फोकस संकेतकों में सुधार करें" },
+  { "en": "Voice feedback for system actions", "hi": "सिस्टम क्रियाओं के लिए वॉयस फीडबैक" },
+  { "en": "Provide captions for live events", "hi": "लाइव इवेंट्स के लिए कैप्शन प्रदान करें" },
+  { "en": "Enhanced contrast for better visibility", "hi": "बेहतर दृश्यता के लिए संवर्धित कंट्रास्ट" },
+  { "en": "Dyslexia-friendly fonts", "hi": "डिस्लेक्सिया-अनुकूल फ़ॉन्ट्स" },
+  { "en": "One-handed mode for easier use", "hi": "आसान उपयोग के लिए एक-हाथ मोड" },
+  { "en": "Gesture-based controls", "hi": "हावभाव-आधारित नियंत्रण" },
+  { "en": "Provide keyboard focus indicators", "hi": "कीबोर्ड फोकस संकेतक प्रदान करें" },
+  { "en": "Enable slow keys for better control", "hi": "बेहतर नियंत्रण के लिए धीमी कुंजियाँ सक्षम करें" },
+  { "en": "Alert sounds for notifications", "hi": "सूचनाओं के लिए अलर्ट ध्वनि" },
+  { "en": "Automatic captioning for recorded media", "hi": "रिकॉर्ड किए गए मीडिया के लिए स्वचालित कैप्शनिंग" },
+  { "en": "Eye-tracking support for navigation", "hi": "नेविगेशन के लिए आई-ट्रैकिंग समर्थन" },
+  { "en": "Real-time language translation", "hi": "वास्तविक समय भाषा अनुवाद" },
+  { "en": "Provide a screen magnifier", "hi": "स्क्रीन मैग्निफायर प्रदान करें" },
+  { "en": "Enable sticky keys for accessibility", "hi": "पहुंचनीयता के लिए स्टिकी कीज़ सक्षम करें" },
+  { "en": "Prevent flashing content to avoid seizures", "hi": "दौरे से बचने के लिए चमकती सामग्री को रोकें" },
+  { "en": "Customizable UI layout for accessibility", "hi": "पहुंचनीयता के लिए अनुकूलन योग्य UI लेआउट" },
+  { "en": "Provide easy-to-read mode", "hi": "आसान-पढ़ने वाला मोड प्रदान करें" },
+  { "en": "Speech-to-text input support", "hi": "स्पीच-टू-टेक्स्ट इनपुट समर्थन" },
+  { "en": "Allow resizing of UI elements", "hi": "UI तत्वों के आकार बदलने की अनुमति दें" },
+  { "en": "Provide keyboard alternatives for mouse actions", "hi": "माउस क्रियाओं के लिए कीबोर्ड विकल्प प्रदान करें" },
+  { "en": "Enable large text mode", "hi": "बड़ा पाठ मोड सक्षम करें" },
+  { "en": "Support customizable shortcuts", "hi": "अनुकूलन योग्य शॉर्टकट्स का समर्थन करें" },
+  { "en": "Enable gesture hints", "hi": "हावभाव संकेत सक्षम करें" }
+  
+  { "en": "Good morning!", "hi": "सुप्रभात!" },
+  { "en": "How are you?", "hi": "आप कैसे हैं?" },
+  { "en": "What is your name?", "hi": "आपका नाम क्या है?" },
+  { "en": "My name is Rahul.", "hi": "मेरा नाम राहुल है।" },
+  { "en": "Where are you from?", "hi": "आप कहाँ से हैं?" },
+  { "en": "I am from India.", "hi": "मैं भारत से हूँ।" },
+  { "en": "What do you do?", "hi": "आप क्या करते हैं?" },
+  { "en": "I am a student.", "hi": "मैं एक छात्र हूँ।" },
+  { "en": "Have a nice day!", "hi": "आपका दिन शुभ हो!" },
+  { "en": "See you later!", "hi": "फिर मिलेंगे!" },
+  { "en": "Take care!", "hi": "ख़्याल रखना!" },
+  { "en": "Please help me.", "hi": "कृपया मेरी मदद करें।" },
+  { "en": "I don’t understand.", "hi": "मुझे समझ नहीं आया।" },
+  { "en": "Can you repeat that?", "hi": "क्या आप इसे दोहरा सकते हैं?" },
+  { "en": "What time is it?", "hi": "कितने बजे हैं?" },
+  { "en": "It is 5 o'clock.", "hi": "पाँच बज रहे हैं।" },
+  { "en": "Where is the nearest restaurant?", "hi": "सबसे नज़दीकी रेस्टोरेंट कहाँ है?" },
+  { "en": "I am feeling hungry.", "hi": "मुझे भूख लग रही है।" },
+  { "en": "Let’s go out for dinner.", "hi": "चलो रात के खाने के लिए बाहर चलते हैं।" },
+  { "en": "How much does this cost?", "hi": "यह कितने का है?" },
+  { "en": "This is too expensive.", "hi": "यह बहुत महंगा है।" },
+  { "en": "Do you have a cheaper option?", "hi": "क्या आपके पास सस्ता विकल्प है?" },
+  { "en": "Can I get the bill, please?", "hi": "क्या मुझे बिल मिल सकता है?" },
+  { "en": "I need a taxi.", "hi": "मुझे एक टैक्सी चाहिए।" },
+  { "en": "Where is the bus stop?", "hi": "बस स्टॉप कहाँ है?" },
+  { "en": "The weather is nice today.", "hi": "आज मौसम अच्छा है।" },
+  { "en": "It is very hot today.", "hi": "आज बहुत गर्मी है।" },
+  { "en": "It looks like it will rain.", "hi": "ऐसा लग रहा है कि बारिश होगी।" },
+  { "en": "Do you like music?", "hi": "क्या आपको संगीत पसंद है?" },
+  { "en": "Yes, I love listening to music.", "hi": "हाँ, मुझे संगीत सुनना बहुत पसंद है।" },
+  { "en": "What is your favorite movie?", "hi": "आपकी पसंदीदा फ़िल्म कौन सी है?" },
+  { "en": "I enjoy reading books.", "hi": "मुझे किताबें पढ़ना पसंद है।" },
+  { "en": "I like playing sports.", "hi": "मुझे खेल खेलना पसंद है।" },
+  { "en": "Do you speak English?", "hi": "क्या आप अंग्रेज़ी बोलते हैं?" },
+  { "en": "I can speak a little Hindi.", "hi": "मैं थोड़ी हिंदी बोल सकता हूँ।" },
+  { "en": "Excuse me, where is the bathroom?", "hi": "माफ़ कीजिए, बाथरूम कहाँ है?" },
+  { "en": "I am feeling tired.", "hi": "मैं थका हुआ महसूस कर रहा हूँ।" },
+  { "en": "Let's take a break.", "hi": "चलो एक ब्रेक लेते हैं।" },
+  { "en": "I am feeling sleepy.", "hi": "मुझे नींद आ रही है।" },
+  { "en": "Please call me later.", "hi": "कृपया मुझे बाद में कॉल करें।" },
+  { "en": "It was nice talking to you.", "hi": "आपसे बात करके अच्छा लगा।" },
+  { "en": "Can I borrow your pen?", "hi": "क्या मैं आपकी पेन उधार ले सकता हूँ?" },
+  { "en": "Don’t worry.", "hi": "चिंता मत करो।" },
+  { "en": "Everything will be fine.", "hi": "सब कुछ ठीक हो जाएगा।" },
+  { "en": "Let's go for a walk.", "hi": "चलो टहलने चलते हैं।" },
+  { "en": "I will be there in 10 minutes.", "hi": "मैं 10 मिनट में वहाँ पहुँच जाऊँगा।" },
+  { "en": "Do you need any help?", "hi": "क्या आपको कोई मदद चाहिए?" },
+  { "en": "That sounds like a great idea!", "hi": "यह बहुत अच्छा विचार लगता है!" },
+  { "en": "I am feeling happy today!", "hi": "आज मैं बहुत खुश महसूस कर रहा हूँ!" },
+  { "en": "What is your plan for the weekend?", "hi": "आपका वीकेंड का क्या प्लान है?" },
+  { "en": "Let’s watch a movie together.", "hi": "चलो साथ में एक फिल्म देखते हैं।" },
+  { "en": "I am learning a new language.", "hi": "मैं एक नई भाषा सीख रहा हूँ।" },
+  { "en": "Practice makes perfect.", "hi": "अभ्यास से ही सफलता मिलती है।" },
+  { "en": "Stay positive and keep smiling!", "hi": "सकारात्मक रहो और मुस्कुराते रहो!" },
+  { "en": "Everything happens for a reason.", "hi": "हर चीज़ किसी न किसी कारण से होती है।" },
+  { "en": "Believe in yourself.", "hi": "अपने आप पर विश्वास करो।" },
+  { "en": "You are doing great!", "hi": "आप बहुत अच्छा कर रहे हैं!" }
+
+  { "en": "He is my friend.", "hi": "वह मेरा दोस्त है।" },
+  { "en": "She is my friend.", "hi": "वह मेरी दोस्त है।" },
+
+  { "en": "He is a doctor.", "hi": "वह एक डॉक्टर है।" },
+  { "en": "She is a doctor.", "hi": "वह एक डॉक्टर है।" },
+
+  { "en": "He is very intelligent.", "hi": "वह बहुत बुद्धिमान है।" },
+  { "en": "She is very intelligent.", "hi": "वह बहुत बुद्धिमान है।" },
+
+  { "en": "He is tired.", "hi": "वह थका हुआ है।" },
+  { "en": "She is tired.", "hi": "वह थकी हुई है।" },
+
+  { "en": "He is happy today.", "hi": "वह आज खुश है।" },
+  { "en": "She is happy today.", "hi": "वह आज खुश है।" },
+
+  { "en": "He is feeling sleepy.", "hi": "वह नींद महसूस कर रहा है।" },
+  { "en": "She is feeling sleepy.", "hi": "वह नींद महसूस कर रही है।" },
+
+  { "en": "He is going to the market.", "hi": "वह बाजार जा रहा है।" },
+  { "en": "She is going to the market.", "hi": "वह बाजार जा रही है।" },
+
+  { "en": "He is studying in his room.", "hi": "वह अपने कमरे में पढ़ रहा है।" },
+  { "en": "She is studying in her room.", "hi": "वह अपने कमरे में पढ़ रही है।" },
+
+  { "en": "He is my brother.", "hi": "वह मेरा भाई है।" },
+  { "en": "She is my sister.", "hi": "वह मेरी बहन है।" },
+
+  { "en": "He is my cousin.", "hi": "वह मेरा चचेरा भाई है।" },
+  { "en": "She is my cousin.", "hi": "वह मेरी चचेरी बहन है।" },
+
+  { "en": "He likes to play football.", "hi": "उसे फ़ुटबॉल खेलना पसंद है।" },
+  { "en": "She likes to play football.", "hi": "उसे फ़ुटबॉल खेलना पसंद है।" },
+
+  { "en": "He is wearing a blue shirt.", "hi": "वह नीली शर्ट पहन रहा है।" },
+  { "en": "She is wearing a blue dress.", "hi": "वह नीली ड्रेस पहन रही है।" },
+
+  { "en": "He is cooking dinner.", "hi": "वह रात का खाना बना रहा है।" },
+  { "en": "She is cooking dinner.", "hi": "वह रात का खाना बना रही है।" },
+
+  { "en": "He is driving a car.", "hi": "वह कार चला रहा है।" },
+  { "en": "She is driving a car.", "hi": "वह कार चला रही है।" },
+
+  { "en": "He is watching television.", "hi": "वह टेलीविज़न देख रहा है।" },
+  { "en": "She is watching television.", "hi": "वह टेलीविज़न देख रही है।" },
+
+  { "en": "He is feeling cold.", "hi": "उसे ठंड लग रही है।" },
+  { "en": "She is feeling cold.", "hi": "उसे ठंड लग रही है।" },
+
+  { "en": "He is waiting for his friend.", "hi": "वह अपने दोस्त का इंतजार कर रहा है।" },
+  { "en": "She is waiting for her friend.", "hi": "वह अपनी दोस्त का इंतजार कर रही है।" },
+
+  { "en": "He is singing a song.", "hi": "वह गाना गा रहा है।" },
+  { "en": "She is singing a song.", "hi": "वह गाना गा रही है।" },
+
+  { "en": "He is working hard.", "hi": "वह कड़ी मेहनत कर रहा है।" },
+  { "en": "She is working hard.", "hi": "वह कड़ी मेहनत कर रही है।" },
+
+  { "en": "He is talking to his mother.", "hi": "वह अपनी माँ से बात कर रहा है।" },
+  { "en": "She is talking to her mother.", "hi": "वह अपनी माँ से बात कर रही है।" },
+
+  { "en": "He is going to school.", "hi": "वह स्कूल जा रहा है।" },
+  { "en": "She is going to school.", "hi": "वह स्कूल जा रही है।" },
+
+  { "en": "He wants to learn Hindi.", "hi": "वह हिंदी सीखना चाहता है।" },
+  { "en": "She wants to learn Hindi.", "hi": "वह हिंदी सीखना चाहती है।" },
+
+  { "en": "He is looking for his book.", "hi": "वह अपनी किताब ढूंढ रहा है।" },
+  { "en": "She is looking for her book.", "hi": "वह अपनी किताब ढूंढ रही है।" },
+
+  { "en": "He is feeling sad.", "hi": "वह दुखी महसूस कर रहा है।" },
+  { "en": "She is feeling sad.", "hi": "वह दुखी महसूस कर रही है।" },
+
+  { "en": "He is buying vegetables.", "hi": "वह सब्ज़ियां खरीद रहा है।" },
+  { "en": "She is buying vegetables.", "hi": "वह सब्ज़ियां खरीद रही है।" },
+
+  { "en": "He is coming home soon.", "hi": "वह जल्द ही घर आ रहा है।" },
+  { "en": "She is coming home soon.", "hi": "वह जल्द ही घर आ रही है।" },
+
+  { "en": "He is feeling proud of himself.", "hi": "वह खुद पर गर्व महसूस कर रहा है।" },
+  { "en": "She is feeling proud of herself.", "hi": "वह खुद पर गर्व महसूस कर रही है।" }
+
+  
+  { "en": "He is tall.", "hi": "वह लंबा है।" },
+  { "en": "She is tall.", "hi": "वह लंबी है।" },
+
+  { "en": "He is strong.", "hi": "वह मजबूत है।" },
+  { "en": "She is strong.", "hi": "वह मजबूत है।" },
+
+  { "en": "He is smart.", "hi": "वह होशियार है।" },
+  { "en": "She is smart.", "hi": "वह होशियार है।" },
+
+  { "en": "He is kind.", "hi": "वह दयालु है।" },
+  { "en": "She is kind.", "hi": "वह दयालु है।" },
+
+  { "en": "He is intelligent.", "hi": "वह बुद्धिमान है।" },
+  { "en": "She is intelligent.", "hi": "वह बुद्धिमान है।" },
+
+  { "en": "He is hardworking.", "hi": "वह मेहनती है।" },
+  { "en": "She is hardworking.", "hi": "वह मेहनती है।" },
+
+  { "en": "He is lazy.", "hi": "वह आलसी है।" },
+  { "en": "She is lazy.", "hi": "वह आलसी है।" },
+
+  { "en": "He is happy.", "hi": "वह खुश है।" },
+  { "en": "She is happy.", "hi": "वह खुश है।" },
+
+  { "en": "He is sad.", "hi": "वह दुखी है।" },
+  { "en": "She is sad.", "hi": "वह दुखी है।" },
+
+  { "en": "He is brave.", "hi": "वह बहादुर है।" },
+  { "en": "She is brave.", "hi": "वह बहादुर है।" },
+
+  { "en": "He is weak.", "hi": "वह कमजोर है।" },
+  { "en": "She is weak.", "hi": "वह कमजोर है।" },
+
+  { "en": "He is polite.", "hi": "वह विनम्र है।" },
+  { "en": "She is polite.", "hi": "वह विनम्र है।" },
+
+  { "en": "He is rude.", "hi": "वह असभ्य है।" },
+  { "en": "She is rude.", "hi": "वह असभ्य है।" },
+
+  { "en": "He is shy.", "hi": "वह शर्मीला है।" },
+  { "en": "She is shy.", "hi": "वह शर्मीली है।" },
+
+  { "en": "He is confident.", "hi": "वह आत्मविश्वासी है।" },
+  { "en": "She is confident.", "hi": "वह आत्मविश्वासी है।" },
+
+  { "en": "He is naughty.", "hi": "वह शरारती है।" },
+  { "en": "She is naughty.", "hi": "वह शरारती है।" },
+
+  { "en": "He is helpful.", "hi": "वह मददगार है।" },
+  { "en": "She is helpful.", "hi": "वह मददगार है।" },
+
+  { "en": "He is funny.", "hi": "वह मज़ाकिया है।" },
+  { "en": "She is funny.", "hi": "वह मज़ाकिया है।" },
+
+  { "en": "He is clever.", "hi": "वह चतुर है।" },
+  { "en": "She is clever.", "hi": "वह चतुर है।" },
+
+  { "en": "He is honest.", "hi": "वह ईमानदार है।" },
+  { "en": "She is honest.", "hi": "वह ईमानदार है।" },
+
+  { "en": "He is friendly.", "hi": "वह मिलनसार है।" },
+  { "en": "She is friendly.", "hi": "वह मिलनसार है।" },
+
+  { "en": "He is careless.", "hi": "वह लापरवाह है।" },
+  { "en": "She is careless.", "hi": "वह लापरवाह है।" },
+
+  { "en": "He is generous.", "hi": "वह उदार है।" },
+  { "en": "She is generous.", "hi": "वह उदार है।" },
+
+  { "en": "He is talkative.", "hi": "वह बातूनी है।" },
+  { "en": "She is talkative.", "hi": "वह बातूनी है।" },
+
+  { "en": "He is patient.", "hi": "वह धैर्यवान है।" },
+  { "en": "She is patient.", "hi": "वह धैर्यवान है।" },
+
+  { "en": "He is jealous.", "hi": "वह ईर्ष्यालु है।" },
+  { "en": "She is jealous.", "hi": "वह ईर्ष्यालु है।" },
+
+  { "en": "He is ambitious.", "hi": "वह महत्त्वाकांक्षी है।" },
+  { "en": "She is ambitious.", "hi": "वह महत्त्वाकांक्षी है।" },
+
+  { "en": "He is responsible.", "hi": "वह ज़िम्मेदार है।" },
+  { "en": "She is responsible.", "hi": "वह ज़िम्मेदार है।" },
+
+  { "en": "He is childish.", "hi": "वह बचकाना है।" },
+  { "en": "She is childish.", "hi": "वह बचकाना है।" },
+
+  { "en": "He is energetic.", "hi": "वह ऊर्जावान है।" },
+  { "en": "She is energetic.", "hi": "वह ऊर्जावान है।" }
+
+
+  { "en": "He is a student.", "hi": "वह एक छात्र है।" },
+  { "en": "She is a student.", "hi": "वह एक छात्रा है।" },
+
+  { "en": "He is a teacher.", "hi": "वह एक शिक्षक है।" },
+  { "en": "She is a teacher.", "hi": "वह एक शिक्षिका है।" },
+
+  { "en": "He is a doctor.", "hi": "वह एक डॉक्टर है।" },
+  { "en": "She is a doctor.", "hi": "वह एक डॉक्टर है।" },
+
+  { "en": "He is a businessman.", "hi": "वह एक व्यापारी है।" },
+  { "en": "She is a businesswoman.", "hi": "वह एक व्यवसायी है।" },
+
+  { "en": "He is a singer.", "hi": "वह एक गायक है।" },
+  { "en": "She is a singer.", "hi": "वह एक गायिका है।" },
+
+  { "en": "He is a dancer.", "hi": "वह एक नर्तक है।" },
+  { "en": "She is a dancer.", "hi": "वह एक नर्तकी है।" },
+
+  { "en": "He is an artist.", "hi": "वह एक कलाकार है।" },
+  { "en": "She is an artist.", "hi": "वह एक कलाकार है।" },
+
+  { "en": "He is a writer.", "hi": "वह एक लेखक है।" },
+  { "en": "She is a writer.", "hi": "वह एक लेखिका है।" },
+
+  { "en": "He is an actor.", "hi": "वह एक अभिनेता है।" },
+  { "en": "She is an actress.", "hi": "वह एक अभिनेत्री है।" },
+
+  { "en": "He is an engineer.", "hi": "वह एक इंजीनियर है।" },
+  { "en": "She is an engineer.", "hi": "वह एक इंजीनियर है।" },
+
+  { "en": "He is a lawyer.", "hi": "वह एक वकील है।" },
+  { "en": "She is a lawyer.", "hi": "वह एक वकील है।" },
+
+  { "en": "He is a policeman.", "hi": "वह एक पुलिसकर्मी है।" },
+  { "en": "She is a policewoman.", "hi": "वह एक पुलिसकर्मी है।" },
+
+  { "en": "He is a father.", "hi": "वह एक पिता है।" },
+  { "en": "She is a mother.", "hi": "वह एक माँ है।" },
+
+  { "en": "He is a brother.", "hi": "वह एक भाई है।" },
+  { "en": "She is a sister.", "hi": "वह एक बहन है।" },
+
+  { "en": "He is a son.", "hi": "वह एक बेटा है।" },
+  { "en": "She is a daughter.", "hi": "वह एक बेटी है।" },
+
+  { "en": "He is a friend.", "hi": "वह एक दोस्त है।" },
+  { "en": "She is a friend.", "hi": "वह एक दोस्त है।" },
+
+  { "en": "He is a player.", "hi": "वह एक खिलाड़ी है।" },
+  { "en": "She is a player.", "hi": "वह एक खिलाड़ी है।" },
+
+  { "en": "He is a leader.", "hi": "वह एक नेता है।" },
+  { "en": "She is a leader.", "hi": "वह एक नेता है।" },
+
+  { "en": "He is a scientist.", "hi": "वह एक वैज्ञानिक है।" },
+  { "en": "She is a scientist.", "hi": "वह एक वैज्ञानिक है।" },
+
+  { "en": "He is a farmer.", "hi": "वह एक किसान है।" },
+  { "en": "She is a farmer.", "hi": "वह एक किसान है।" },
+
+  { "en": "He is a pilot.", "hi": "वह एक पायलट है।" },
+  { "en": "She is a pilot.", "hi": "वह एक पायलट है।" },
+
+  { "en": "He is a chef.", "hi": "वह एक रसोइया है।" },
+  { "en": "She is a chef.", "hi": "वह एक रसोइया है।" },
+
+  { "en": "He is a driver.", "hi": "वह एक चालक है।" },
+  { "en": "She is a driver.", "hi": "वह एक चालक है।" },
+
+  { "en": "He is a soldier.", "hi": "वह एक सैनिक है।" },
+  { "en": "She is a soldier.", "hi": "वह एक सैनिक है।" },
+
+  { "en": "He is a shopkeeper.", "hi": "वह एक दुकानदार है।" },
+  { "en": "She is a shopkeeper.", "hi": "वह एक दुकानदार है।" },
+
+  { "en": "He is a poet.", "hi": "वह एक कवि है।" },
+  { "en": "She is a poet.", "hi": "वह एक कवयित्री है।" },
+
+  { "en": "He is a magician.", "hi": "वह एक जादूगर है।" },
+  { "en": "She is a magician.", "hi": "वह एक जादूगरनी है।" },
+
+  { "en": "He is a journalist.", "hi": "वह एक पत्रकार है।" },
+  { "en": "She is a journalist.", "hi": "वह एक पत्रकार है।" }
+
+  
+  { "en": "They run every morning.", "hi": "वे हर सुबह दौड़ते हैं।" },
+  { "en": "They eat lunch at noon.", "hi": "वे दोपहर में दोपहर का खाना खाते हैं।" },
+  { "en": "They drink water regularly.", "hi": "वे नियमित रूप से पानी पीते हैं।" },
+  { "en": "They read books in the library.", "hi": "वे पुस्तकालय में किताबें पढ़ते हैं।" },
+  { "en": "They write emails daily.", "hi": "वे रोज़ ईमेल लिखते हैं।" },
+  { "en": "They work hard to succeed.", "hi": "वे सफल होने के लिए कड़ी मेहनत करते हैं।" },
+  { "en": "They play chess in the evening.", "hi": "वे शाम को शतरंज खेलते हैं।" },
+  { "en": "They travel to new places.", "hi": "वे नई जगहों की यात्रा करते हैं।" },
+  { "en": "They learn new skills online.", "hi": "वे ऑनलाइन नई कौशल सीखते हैं।" },
+  { "en": "They watch movies on weekends.", "hi": "वे सप्ताहांत पर फिल्में देखते हैं।" },
+  { "en": "They listen to music while working.", "hi": "वे काम करते समय संगीत सुनते हैं।" },
+  { "en": "They dance at the party.", "hi": "वे पार्टी में नृत्य करते हैं।" },
+  { "en": "They exercise every morning.", "hi": "वे हर सुबह व्यायाम करते हैं।" },
+  { "en": "They shop for groceries on Sundays.", "hi": "वे रविवार को किराने का सामान खरीदते हैं।" },
+  { "en": "They speak different languages.", "hi": "वे विभिन्न भाषाएँ बोलते हैं।" },
+  { "en": "They clean their rooms every day.", "hi": "वे हर दिन अपने कमरे साफ करते हैं।" },
+  { "en": "They help their neighbors.", "hi": "वे अपने पड़ोसियों की मदद करते हैं।" },
+  { "en": "They cook delicious food.", "hi": "वे स्वादिष्ट खाना बनाते हैं।" },
+  { "en": "They study for exams.", "hi": "वे परीक्षाओं के लिए पढ़ाई करते हैं।" },
+  { "en": "They drive carefully.", "hi": "वे सावधानी से गाड़ी चलाते हैं।" },
+  { "en": "They swim in the pool.", "hi": "वे पूल में तैरते हैं।" },
+  { "en": "They build houses.", "hi": "वे घर बनाते हैं।" },
+  { "en": "They plant trees in the garden.", "hi": "वे बगीचे में पेड़ लगाते हैं।" },
+  { "en": "They paint beautiful pictures.", "hi": "वे सुंदर चित्र बनाते हैं।" },
+  { "en": "They teach children.", "hi": "वे बच्चों को पढ़ाते हैं।" },
+  { "en": "They open the windows for fresh air.", "hi": "वे ताज़ी हवा के लिए खिड़कियाँ खोलते हैं।" },
+  { "en": "They close the door before leaving.", "hi": "वे जाने से पहले दरवाजा बंद करते हैं।" },
+  { "en": "They send messages to friends.", "hi": "वे दोस्तों को संदेश भेजते हैं।" },
+  { "en": "They celebrate festivals with joy.", "hi": "वे खुशी से त्योहार मनाते हैं।" }
+  
+  { "en": "They celebrate Diwali with lights and sweets.", "hi": "वे दिवाली रोशनी और मिठाइयों के साथ मनाते हैं।" },
+  { "en": "They burst firecrackers on Diwali night.", "hi": "वे दिवाली की रात पटाखे फोड़ते हैं।" },
+  { "en": "They decorate their homes with rangoli.", "hi": "वे अपने घरों को रंगोली से सजाते हैं।" },
+  { "en": "They exchange gifts on Diwali.", "hi": "वे दिवाली पर उपहारों का आदान-प्रदान करते हैं।" },
+  { "en": "They light diyas to celebrate the festival.", "hi": "वे त्योहार मनाने के लिए दीये जलाते हैं।" },
+
+  { "en": "They celebrate Holi by playing with colors.", "hi": "वे होली रंगों से खेलकर मनाते हैं।" },
+  { "en": "They apply colors to each other on Holi.", "hi": "वे होली पर एक-दूसरे को रंग लगाते हैं।" },
+  { "en": "They eat gujiyas and sweets during Holi.", "hi": "वे होली के दौरान गुझिया और मिठाइयाँ खाते हैं।" },
+  { "en": "They dance and sing during the Holi festival.", "hi": "वे होली के त्योहार में नृत्य और गान करते हैं।" },
+  { "en": "They burn the Holika bonfire before Holi.", "hi": "वे होली से पहले होलिका दहन करते हैं।" },
+
+  { "en": "They celebrate Christmas by decorating a tree.", "hi": "वे क्रिसमस पर एक पेड़ सजाकर जश्न मनाते हैं।" },
+  { "en": "They exchange gifts on Christmas Eve.", "hi": "वे क्रिसमस की पूर्व संध्या पर उपहारों का आदान-प्रदान करते हैं।" },
+  { "en": "They sing Christmas carols.", "hi": "वे क्रिसमस के भजन गाते हैं।" },
+  { "en": "They enjoy a Christmas feast with family.", "hi": "वे परिवार के साथ क्रिसमस का भोज आनंद लेते हैं।" },
+  { "en": "They wait for Santa Claus to bring presents.", "hi": "वे सांता क्लॉज़ के उपहार लाने का इंतजार करते हैं।" },
+
+  { "en": "They celebrate Eid by praying in the mosque.", "hi": "वे ईद पर मस्जिद में नमाज़ अदा करते हैं।" },
+  { "en": "They prepare and share delicious seviyan on Eid.", "hi": "वे ईद पर स्वादिष्ट सेवइयाँ बनाते और बाँटते हैं।" },
+  { "en": "They wear new clothes on Eid.", "hi": "वे ईद पर नए कपड़े पहनते हैं।" },
+  { "en": "They hug and greet each other on Eid.", "hi": "वे ईद पर एक-दूसरे को गले लगाकर बधाई देते हैं।" },
+  { "en": "They give Eidi to children.", "hi": "वे बच्चों को ईदी देते हैं।" },
+
+  { "en": "They celebrate Navratri by fasting and worshiping.", "hi": "वे नवरात्रि उपवास और पूजा करके मनाते हैं।" },
+  { "en": "They perform Garba during Navratri.", "hi": "वे नवरात्रि के दौरान गरबा करते हैं।" },
+  { "en": "They offer prayers to Goddess Durga.", "hi": "वे माँ दुर्गा की पूजा करते हैं।" },
+  { "en": "They visit temples during Navratri.", "hi": "वे नवरात्रि के दौरान मंदिर जाते हैं।" },
+  { "en": "They break their fast on Ashtami or Navami.", "hi": "वे अष्टमी या नवमी को उपवास तोड़ते हैं।" },
+
+  { "en": "They celebrate Pongal by cooking sweet rice.", "hi": "वे पोंगल पर मीठे चावल पकाकर जश्न मनाते हैं।" },
+  { "en": "They worship the Sun God during Pongal.", "hi": "वे पोंगल के दौरान सूर्य देव की पूजा करते हैं।" },
+  { "en": "They decorate their homes with kolam.", "hi": "वे अपने घरों को कोलम से सजाते हैं।" },
+  { "en": "They thank nature and cattle on Pongal.", "hi": "वे पोंगल पर प्रकृति और पशुओं का धन्यवाद करते हैं।" },
+  { "en": "They fly kites during Makar Sankranti.", "hi": "वे मकर संक्रांति पर पतंग उड़ाते हैं।" },
+
+  { "en": "They celebrate Raksha Bandhan by tying a rakhi.", "hi": "वे रक्षा बंधन पर राखी बांधकर जश्न मनाते हैं।" },
+  { "en": "They exchange sweets on Raksha Bandhan.", "hi": "वे रक्षा बंधन पर मिठाइयों का आदान-प्रदान करते हैं।" },
+  { "en": "They take blessings from elders on Raksha Bandhan.", "hi": "वे रक्षा बंधन पर बड़ों का आशीर्वाद लेते हैं।" },
+  { "en": "They promise to protect their sisters.", "hi": "वे अपनी बहनों की रक्षा का वचन देते हैं।" },
+  { "en": "They give gifts to their sisters on Raksha Bandhan.", "hi": "वे रक्षा बंधन पर अपनी बहनों को उपहार देते हैं।" },
+
+  { "en": "They celebrate Ganesh Chaturthi by bringing Ganpati home.", "hi": "वे गणेश चतुर्थी पर गणपति को घर लाकर जश्न मनाते हैं।" },
+  { "en": "They perform Ganpati visarjan with devotion.", "hi": "वे श्रद्धा से गणपति विसर्जन करते हैं।" },
+  { "en": "They chant 'Ganpati Bappa Morya' during the festival.", "hi": "वे त्योहार के दौरान 'गणपति बप्पा मोरया' का जयकारा लगाते हैं।" },
+  { "en": "They prepare modaks for Lord Ganesha.", "hi": "वे भगवान गणेश के लिए मोदक बनाते हैं।" },
+  { "en": "They visit pandals to seek blessings.", "hi": "वे आशीर्वाद लेने के लिए पंडालों में जाते हैं।" }
+
+
+  { "en": "Good morning! How are you?", "hi": "सुप्रभात! आप कैसे हैं?" },
+  { "en": "I am fine, thank you!", "hi": "मैं ठीक हूँ, धन्यवाद!" },
+  { "en": "What are you doing?", "hi": "आप क्या कर रहे हैं?" },
+  { "en": "I am working right now.", "hi": "मैं अभी काम कर रहा हूँ।" },
+  { "en": "Have you eaten?", "hi": "क्या आपने खाना खा लिया?" },
+  { "en": "Yes, I had my lunch.", "hi": "हाँ, मैंने दोपहर का खाना खा लिया।" },
+  { "en": "Let's go for a walk.", "hi": "चलिए टहलने चलते हैं।" },
+  { "en": "Where are you going?", "hi": "आप कहाँ जा रहे हैं?" },
+  { "en": "I am going to the market.", "hi": "मैं बाजार जा रहा हूँ।" },
+  { "en": "Can you help me, please?", "hi": "क्या आप मेरी मदद कर सकते हैं?" },
+  { "en": "Of course, I will help you.", "hi": "बिलकुल, मैं आपकी मदद करूंगा।" },
+  { "en": "What time is it?", "hi": "कितने बजे हैं?" },
+  { "en": "It's 5 o’clock.", "hi": "यह पाँच बजे हैं।" },
+  { "en": "How was your day?", "hi": "आपका दिन कैसा रहा?" },
+  { "en": "It was a good day!", "hi": "आज का दिन अच्छा था!" },
+  { "en": "What do you want to eat?", "hi": "आप क्या खाना चाहते हैं?" },
+  { "en": "I would like some tea.", "hi": "मुझे चाय चाहिए।" },
+  { "en": "Please give me a glass of water.", "hi": "कृपया मुझे एक गिलास पानी दें।" },
+  { "en": "How is the weather today?", "hi": "आज मौसम कैसा है?" },
+  { "en": "It is very hot today.", "hi": "आज बहुत गर्मी है।" },
+  { "en": "What do you do for work?", "hi": "आप क्या काम करते हैं?" },
+  { "en": "I work as a software engineer.", "hi": "मैं एक सॉफ़्टवेयर इंजीनियर के रूप में काम करता हूँ।" },
+  { "en": "Nice to meet you!", "hi": "आपसे मिलकर खुशी हुई!" },
+  { "en": "I am feeling tired.", "hi": "मैं थका हुआ महसूस कर रहा हूँ।" },
+  { "en": "Let's watch a movie.", "hi": "चलिए एक फिल्म देखते हैं।" },
+  { "en": "Can you repeat that, please?", "hi": "क्या आप इसे फिर से कह सकते हैं?" },
+  { "en": "I don’t understand.", "hi": "मुझे समझ नहीं आया।" },
+  { "en": "Where do you live?", "hi": "आप कहाँ रहते हैं?" },
+  { "en": "I live in Delhi.", "hi": "मैं दिल्ली में रहता हूँ।" },
+  { "en": "See you soon!", "hi": "जल्द ही मिलते हैं!" },
+  { "en": "Take care!", "hi": "ख्याल रखना!" },
+  { "en": "What’s your name?", "hi": "आपका नाम क्या है?" },
+  { "en": "My name is Rahul.", "hi": "मेरा नाम राहुल है।" },
+  { "en": "What do you like to do?", "hi": "आपको क्या करना पसंद है?" },
+  { "en": "I like playing badminton.", "hi": "मुझे बैडमिंटन खेलना पसंद है।" },
+  { "en": "Can we meet tomorrow?", "hi": "क्या हम कल मिल सकते हैं?" },
+  { "en": "Yes, let's meet in the evening.", "hi": "हाँ, शाम को मिलते हैं।" },
+  { "en": "How much does this cost?", "hi": "इसकी कीमत कितनी है?" },
+  { "en": "It costs 500 rupees.", "hi": "इसकी कीमत 500 रुपये है।" },
+  { "en": "Do you like coffee or tea?", "hi": "आपको कॉफी पसंद है या चाय?" },
+  { "en": "I prefer coffee.", "hi": "मुझे कॉफी पसंद है।" },
+  { "en": "What is your favorite color?", "hi": "आपका पसंदीदा रंग कौन सा है?" },
+  { "en": "My favorite color is blue.", "hi": "मेरा पसंदीदा रंग नीला है।" },
+  { "en": "Are you free tomorrow?", "hi": "क्या आप कल खाली हैं?" },
+  { "en": "No, I am busy with work.", "hi": "नहीं, मैं काम में व्यस्त हूँ।" },
+  { "en": "Let's go shopping.", "hi": "चलिए खरीदारी करने चलते हैं।" },
+  { "en": "Do you like reading books?", "hi": "क्या आपको किताबें पढ़ना पसंद है?" },
+  { "en": "Yes, I love reading novels.", "hi": "हाँ, मुझे उपन्यास पढ़ना बहुत पसंद है।" },
+  { "en": "What’s your favorite dish?", "hi": "आपका पसंदीदा व्यंजन क्या है?" },
+  { "en": "I love eating biryani.", "hi": "मुझे बिरयानी खाना पसंद है।" },
+  { "en": "Can you call me later?", "hi": "क्या आप मुझे बाद में कॉल कर सकते हैं?" },
+  { "en": "Sure, I will call you in the evening.", "hi": "ज़रूर, मैं आपको शाम को कॉल करूंगा।" },
+  { "en": "What’s the plan for today?", "hi": "आज का क्या प्लान है?" },
+  { "en": "Let's go out for dinner.", "hi": "चलिए रात के खाने के लिए बाहर चलते हैं।" },
+  { "en": "I am feeling sleepy.", "hi": "मुझे नींद आ रही है।" },
+  { "en": "Good night! Sweet dreams.", "hi": "शुभ रात्रि! मीठे सपने देखें।" }
+
+  
+  { "en": "I have a bad feeling about this.", "hi": "मुझे इस बारे में बुरा अहसास हो रहा है।" },
+  { "en": "This is just the beginning.", "hi": "यह तो बस शुरुआत है।" },
+  { "en": "No matter what happens, stay with me.", "hi": "कुछ भी हो जाए, मेरे साथ रहना।" },
+  { "en": "I will find you, no matter where you hide.", "hi": "मैं तुम्हें ढूंढ निकालूंगा, चाहे तुम कहीं भी छिपो।" },
+  { "en": "You can't run from your destiny.", "hi": "तुम अपनी किस्मत से नहीं भाग सकते।" },
+  { "en": "I’ll be back.", "hi": "मैं वापस आऊंगा।" },
+  { "en": "We are not so different, you and I.", "hi": "हम दोनों एक जैसे ही हैं।" },
+  { "en": "Do you trust me?", "hi": "क्या तुम मुझ पर भरोसा करते हो?" },
+  { "en": "This is our only chance.", "hi": "यह हमारा आखिरी मौका है।" },
+  { "en": "The world isn't ready for the truth.", "hi": "दुनिया सच्चाई के लिए तैयार नहीं है।" },
+  { "en": "If we do this, we do it my way.", "hi": "अगर हम यह करेंगे, तो मेरे तरीके से करेंगे।" },
+  { "en": "You shouldn’t have come here.", "hi": "तुम्हें यहाँ नहीं आना चाहिए था।" },
+  { "en": "Revenge won’t bring you peace.", "hi": "बदला लेने से तुम्हें शांति नहीं मिलेगी।" },
+  { "en": "Some things are better left unsaid.", "hi": "कुछ बातें न कहने में ही भलाई होती है।" },
+  { "en": "You have no idea what’s coming.", "hi": "तुम्हें अंदाजा भी नहीं है कि क्या आने वाला है।" },
+  { "en": "This war is far from over.", "hi": "यह युद्ध अभी खत्म नहीं हुआ है।" },
+  { "en": "The city needs a hero.", "hi": "इस शहर को एक हीरो की जरूरत है।" },
+  { "en": "You think you can stop me?", "hi": "तुम सोचते हो कि तुम मुझे रोक सकते हो?" },
+  { "en": "I have waited my whole life for this moment.", "hi": "मैंने इस पल के लिए पूरी ज़िंदगी इंतज़ार किया है।" },
+  { "en": "Not all heroes wear capes.", "hi": "हर हीरो के पास केप नहीं होती।" },
+  { "en": "It's not about winning, it's about surviving.", "hi": "यह जीतने के बारे में नहीं, बल्कि जिंदा रहने के बारे में है।" },
+  { "en": "We all have our demons.", "hi": "हम सभी के अंदर अपने-अपने राक्षस होते हैं।" },
+  { "en": "I didn’t sign up for this.", "hi": "मैंने इसके लिए साइन अप नहीं किया था।" },
+  { "en": "You either die a hero or live long enough to see yourself become the villain.", "hi": "या तो तुम हीरो बनकर मर जाते हो, या फिर इतने दिन जीते हो कि खुद विलेन बन जाते हो।" },
+  { "en": "Fear is just an illusion.", "hi": "डर सिर्फ एक भ्रम है।" },
+  { "en": "If I go down, I’m taking you with me.", "hi": "अगर मैं गिरा, तो तुम्हें भी अपने साथ लेकर जाऊंगा।" },
+  { "en": "We have to stick together.", "hi": "हमें साथ रहना होगा।" },
+  { "en": "There's no turning back now.", "hi": "अब वापस लौटने का कोई रास्ता नहीं।" },
+  { "en": "I never wanted this life.", "hi": "मैंने कभी ये ज़िंदगी नहीं चाही थी।" },
+  { "en": "You should have killed me when you had the chance.", "hi": "तुम्हें मौका मिलने पर मुझे मार देना चाहिए था।" },
+  { "en": "We make our own fate.", "hi": "हम अपनी तकदीर खुद बनाते हैं।" },
+  { "en": "Everything you know is a lie.", "hi": "जो कुछ भी तुम जानते हो, वह एक झूठ है।" },
+  { "en": "This ends tonight.", "hi": "यह आज रात खत्म होगा।" },
+  { "en": "Sometimes, the only way to win is not to play.", "hi": "कभी-कभी जीतने का एक ही तरीका होता है - खेल में न उतरना।" },
+  { "en": "Time is running out.", "hi": "समय खत्म हो रहा है।" },
+  { "en": "No one can save you now.", "hi": "अब तुम्हें कोई नहीं बचा सकता।" },
+  { "en": "I will fight till my last breath.", "hi": "मैं अपनी आखिरी सांस तक लड़ूंगा।" },
+  { "en": "You don’t deserve my mercy.", "hi": "तुम मेरी दया के काबिल नहीं हो।" },
+  { "en": "This is not how the story ends.", "hi": "कहानी ऐसे खत्म नहीं होती।" },
+  { "en": "I have nothing left to lose.", "hi": "मेरे पास अब खोने के लिए कुछ नहीं है।" },
+  { "en": "You underestimate me.", "hi": "तुमने मुझे कम आंका है।" },
+  { "en": "It’s time to finish what we started.", "hi": "अब समय आ गया है इसे खत्म करने का, जो हमने शुरू किया था।" },
+  { "en": "I won’t let you down.", "hi": "मैं तुम्हें निराश नहीं करूंगा।" },
+  { "en": "You have my word.", "hi": "तुम्हारे पास मेरा वचन है।" },
+  { "en": "Tell me the truth!", "hi": "मुझे सच बताओ!" },
+  { "en": "We all have choices to make.", "hi": "हम सभी को अपने फैसले खुद लेने होते हैं।" },
+  { "en": "The power is in your hands now.", "hi": "अब शक्ति तुम्हारे हाथ में है।" },
+  { "en": "I’m not afraid of you.", "hi": "मुझे तुमसे डर नहीं लगता।" },
+  { "en": "You can’t change the past.", "hi": "तुम अतीत को नहीं बदल सकते।" }
+
+  
+  { "en": "I trust you with my life.", "hi": "मैं अपनी जान तुम्हारे भरोसे छोड़ता हूँ।" },
+  { "en": "We all carry scars from the past.", "hi": "हम सभी अपने अतीत के निशान साथ लेकर चलते हैं।" },
+  { "en": "Your silence is louder than words.", "hi": "तुम्हारी चुप्पी शब्दों से भी ज्यादा बोलती है।" },
+  { "en": "Fate is as unpredictable as the wind.", "hi": "किस्मत हवा की तरह अनिश्चित है।" },
+  { "en": "I will never forget this moment.", "hi": "मैं इस पल को कभी नहीं भूलूंगा।" },
+  { "en": "The truth is a double-edged sword.", "hi": "सच एक दोधारी तलवार है।" },
+  { "en": "You are stronger than you imagine.", "hi": "तुम अपनी कल्पना से भी ज्यादा मजबूत हो।" },
+  { "en": "Our journey has just begun.", "hi": "हमारी यात्रा अभी शुरू हुई है।" },
+  { "en": "There's always more to the story than meets the eye.", "hi": "कहानी में हमेशा आँखों से परे कुछ और होता है।" },
+  { "en": "In the darkest hour, hope finds a way.", "hi": "सबसे अंधेरे में भी आशा का रास्ता निकल आता है।" },
+  { "en": "Your choices define your destiny.", "hi": "तुम्हारे फैसले तुम्हारी तकदीर तय करते हैं।" },
+  { "en": "We must face our fears head-on.", "hi": "हमें अपने डर का सीधा सामना करना होगा।" },
+  { "en": "Destiny awaits those who dare.", "hi": "तकदीर उन्हीं का इंतजार करती है जो साहस रखते हैं।" },
+  { "en": "I see a future worth fighting for.", "hi": "मैं एक ऐसा भविष्य देखता हूँ जिसके लिए लड़ाई लड़ी जा सकती है।" },
+  { "en": "Every end is a new beginning.", "hi": "हर अंत के साथ एक नई शुरुआत होती है।" },
+  { "en": "They underestimated our resolve.", "hi": "उन्होंने हमारी दृढ़ता को कम आंका।" },
+  { "en": "I stand firmly by my convictions.", "hi": "मैं अपने सिद्धांतों पर अडिग रहता हूँ।" },
+  { "en": "Let the storm come; we are unbreakable.", "hi": "आंधी आये, हम अटूट हैं।" },
+  { "en": "Time heals all wounds, but the scars remain.", "hi": "समय सभी घाव भर देता है, पर निशान रह जाते हैं।" },
+  { "en": "You have awakened the beast within me.", "hi": "तुमने मेरे अंदर छिपे जंगली हिस्से को जगाया है।" }
+
+
+
+
+
+]
